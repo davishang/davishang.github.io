@@ -104,10 +104,17 @@ section {
     font-size: 28px;
 }
 
+#top fieldset {
+    width: 400px;
+    margin: 20px auto;
+}
+
+
+
 /* Middle Section */
 
 #ryan-image {
-    float: left;
+    float:left;
     margin-right: 30px;
     margin-bottom: 20px;
 }
