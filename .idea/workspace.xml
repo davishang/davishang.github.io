@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c28fac61-8c37-435c-a6ca-d35ee5157309" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/google/images/logo11w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/google/images/mic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/google/images/mic.png" />
       <change type="DELETED" beforePath="C:\Users\CAConnects\Desktop\davishang.github.io\images\Fisherman.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\CAConnects\Desktop\davishang.github.io\images\bass.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\CAConnects\Desktop\davishang.github.io\images\california_delta.jpg" afterPath="" />
@@ -16,7 +13,6 @@
       <change type="DELETED" beforePath="C:\Users\CAConnects\Desktop\davishang.github.io\images\salmon.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\CAConnects\Desktop\davishang.github.io\images\shimano.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\CAConnects\Desktop\davishang.github.io\images\striper.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="davishang.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
