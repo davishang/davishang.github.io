@@ -8,6 +8,7 @@ body {
     font-family: 'courier new', courier, sans-serif;
     font-weight: 500;
     color: #555;
+    margin-top: 50px;
 }
 
 h1, h2, h3 {
@@ -18,12 +19,10 @@ h1 {
     font-size: 36px;
     line-height: 1.2;
 }
-
 h2 {
     font-size: 21px;
     line-height: 1.2;
 }
-
 p {
     font-size: 16px;
     line-height: 20px;
@@ -32,12 +31,7 @@ p {
 
 a {
     text-decoration: none;
-    color: red;
-    /* color: #2ec371; */
-}
-
-span {
-    color: red;
+    color: #2ec371;
 }
 
 blockquote {
@@ -45,11 +39,10 @@ blockquote {
     font-weight: 400;
     line-height: 30px;
 }
-
 pre {
     font-size: 13px;
     font-weight: 400;
-    line-height: 18.5714282989502px;
+    line-height: 18.5714302062988px;
 }
 
 section {
@@ -57,7 +50,18 @@ section {
     padding-bottom: 30px;
 }
 
-/* Navbar*/
+/* Navbar */
+
+header {
+    position: fixed;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background-color: white;
+    width: 100%;
+    z-index: 999;
+}
+
 #header-title {
     float: left;
     padding-top: 15px;
@@ -89,7 +93,7 @@ section {
     background-color: #cbd0d2;
     padding-top: 100px;
     padding-bottom: 100px;
-    background: url('../images/ocean_fishing.jpg') no-repeat center center;
+    background: url('../images/hero-bg-dark.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -99,27 +103,54 @@ section {
 }
 
 #top h2 {
-    color: lightcyan;
-    font-weight: 400;
-    font-size: 28px;
+    color: #cecece;
+    font-weight: 200;
 }
 
 #top fieldset {
     width: 400px;
     margin: 20px auto;
+    position: relative;
+    text-align: left;
 }
 
+#top input[type="text"] {
+    padding: 11px;
+    width: 75%;
+    font-size: 20px;
+    border: 2px solid #2ec371;
+}
 
+#top input[type="text"]:focus {
+    outline: 0;
+    border: 1px solid red;
+}
+
+#top input[type="submit"] {
+    padding: 15px;
+    background-color: #2ec371;
+    border: 1px solid #2ec371;
+    font-size: 15px;
+    width: 25%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: #fefefe;
+}
+
+#top input[type="submit"]:hover {
+    cursor: pointer;
+}
 
 /* Middle Section */
 
-#ryan-image {
-    float:left;
+#ryan-image{
+    float: left;
     margin-right: 30px;
     margin-bottom: 20px;
 }
 
-/* Bottom Section*/
+/* Bottom Section */
 
 #bottom {
     background-color: #f9f9f9;
@@ -147,11 +178,49 @@ section {
     background-color: #fefefe;
     border: 1px solid #ececec;
     width: 48%;
-    /* float: left; */
+    /*float: left;*/
     display: inline-block;
     padding: 30px 20px;
     margin: 1%;
     vertical-align: top;
+}
+
+#to-the-top {
+    color: #fefefe;
+    background-color: #2ec371;
+    padding: 20px;
+    border-radius: 35px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* Projects Page */
+
+#projects {
+    padding-top: 30px;
+}
+
+#projects article {
+    width: 33.333%;
+    border: 1px solid #e9e9e9;
+    border-radius: 5px;
+}
+
+#projects article img {
+    max-width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#projects h4 {
+    padding: 7px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#projects p {
+    padding: 7px;
 }
 
 /* Universal */
@@ -178,17 +247,75 @@ section {
     background-color: #357ebd;
 }
 
-/* clearfix */
+/* 
 
-.row:before, .row:after, .clearfix:before, .clearfix:after {
+/* clearfix */
+.row:before,
+.row:after, .clearfix:before, .clearfix:after {
     content: "";
     display: table;
 }
-
 .row:after, .clearfix:after {
     clear: both;
 }
-
 .row, .clearfix {
-    zoom: 1; /* for IE 6/7 (trigger hasLayout) */
+    zoom: 1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .container {
+        width: 740px;
+    }
+
+    header {
+        font-size: 14px;
+    }
+
+    #header-nav li a {
+        padding: 18px 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+
+    header {
+        height: 70px;
+    }
+
+    #top fieldset {
+        width: 95%;
+    }
+
+    #header-title {
+        float: none;
+        text-align: center;
+    }
+
+    .container {
+        width: 100%;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    #header-nav {
+        float: none;
+        clear: left;
+        font-size: 12px;
+
+    }
+
+    #header-nav li a {
+        padding: 12px;
+    }
+
+    .one-half {
+        width: 98%;
+    }
 }
