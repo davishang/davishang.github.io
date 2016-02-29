@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>NodeType</title>
+</head>
+<body>
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li class="item">Item 3</li>
+    <li>Item 4</li>
+    <li>Item 5</li>
+</ul>
+</body>
+<script>
+    var myNode = document.querySelector('ul li .item');
+
+    myNode.addEventListener('click', function() { console.log(myNode.firstChild.nodeValue); }, false);
+</script>
+</html>

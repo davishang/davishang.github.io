@@ -2,99 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699c621a-3f5d-442e-8621-3c6b04218426" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Background.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Background.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Background.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Convert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Index-Fresno_City.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/NodeType.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/audio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/audio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/convert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/css/index2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/drag-drop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/drag-drop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/drag-drop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/empireVehicleDatabase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/empireVehicleDatabase.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/form-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/html_img.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/lightbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/lightbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/mouse-out.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/mouse-out.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/mouse-out.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/restricted-attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/simple-audio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/simple-audio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/whack-a-mole.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/what-to-eat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/what-to-eat.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/blog-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/dropdown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flex-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fullscreen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/projects-2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/treehouse-challenge2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google/images/logo11w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google/images/mic.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google/images/mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fedora_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hero-bg-dark.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/large.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mbe-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ryan-hat.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/davishang.github.io.iml" afterPath="$PROJECT_DIR$/.idea/davishang.github.io.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/Build a Webpage/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/Build a Webpage/pic/bike-wallpaper-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/Build a Webpage/sample_webpage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/blog-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/dropdown.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/flex-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/fullscreen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/projects-2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/css/treehouse-challenge2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/google/images/logo11w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/google/images/mic.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/google/images/mic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/google/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/google/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/images/fedora_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/images/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/images/hero-bg-dark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/images/large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/images/mbe-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-CSS/images/ryan-hat.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JavaScript/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript/flex.html" afterPath="$PROJECT_DIR$/JavaScript/flex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript/fullscreen.html" afterPath="$PROJECT_DIR$/JavaScript/fullscreen.html" />
     </list>
     <ignored path="davishang.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,38 +78,7 @@
     <favorites_list name="davishang.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample_webpage.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML-CSS/Build a Webpage/sample_webpage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50830567">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML-CSS/Build a Webpage/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.23077">
-              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -245,38 +178,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="davishang.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="davishang.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="davishang.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML-CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="davishang.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="davishang.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML-CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Build a Webpage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -721,14 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -739,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML-CSS/Build a Webpage/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.23077">
+        <state vertical-scroll-proportion="0.8305648">
           <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
           <folding />
         </state>
@@ -749,14 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-CSS/Build a Webpage/sample_webpage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50830567">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding />
         </state>
       </provider>
